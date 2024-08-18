@@ -1,3 +1,0 @@
-create repo on git without readme
-
-on vs git init
